@@ -6,3 +6,27 @@
 	width:75%;
 	height:100%;
 }
+
+.btn-danger {
+  height: 100px;
+  width: 300px;
+  padding: 30px;
+}
+
+.jumbotron {
+  background-color: transparent;
+  height: 500px;
+}
+
+.jumbotron video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  margin-top: -95px;
+  z-index: -1;
+}
+#mc_embed_signup {
+  background-color: white;
+}
