@@ -21,11 +21,12 @@
   bottom:0;          /*to the bottom of the window*/
   left:0;
           /*and to the left of the window.*/
+  margin-top:50px;
 }
 
 #rocket {
-	width:75%;
-	height:100%;
+	width:100%;
+	height:95%;
 }
 
 .btn-danger {
@@ -55,3 +56,4 @@
 #helmet {
 	width:100%;
 	height:95%;
+
