@@ -1,3 +1,8 @@
 .jumbotron, .jumbotron-fluid {
   height: 100vh;
 }
+
+#rocket {
+	width:75%;
+	height:100%;
+}
