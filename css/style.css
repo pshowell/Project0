@@ -2,7 +2,6 @@
   height: 100vh;
 }
 
-<<<<<<< HEAD
 .container-fluid {
   width: 100%;
 }
@@ -22,9 +21,12 @@
   left:0;
           /*and to the left of the window.*/
 }
-=======
-#rocket {
-	width:100%;
-	height:95%;
+
+.rss {
+ float: left;
+ width: 10px;
+ height: 10px;
+ display:block;
+ margin: 2px;
+ background:transparent url('./images/rss.png') center top no-repeat;
 }
->>>>>>> 62d576784ac0529d99058ca3b2b50c8917efcf6d
